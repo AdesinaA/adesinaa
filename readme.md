@@ -19,7 +19,7 @@ Furthermore, I have a strong practical experience in software development, data 
   - [Ivy Framework](https://github.com/ivy-llc) | Open Source Machine Learning Contributor
 
 ### 📚 Projects
-Welcome to my portfolio, where I showcase my [projects]().
+Welcome to my portfolio, where I showcase my [projects](https://github.com/AdesinaA/portfolio-directory).
 
 ### 🛠️ Tools
 These valuable tools and techniques have empowered me to successfully develop and comprehend intricate machine learning and data analysis projects:
