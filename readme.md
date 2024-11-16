@@ -13,8 +13,8 @@ Furthermore, I have a strong practical experience in software development, data 
   - [Tech For Good Incorporation](https://www.techforgoodinc.org/) | Machine Learning Intern
 
 🔭 Companies I have volunteered for:
-  - [Amazon Web Service](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/) | Community Builder (Machine Learning)
-  - [Omdena](https://www.omdena.com/) | Data Science Local Lead Ibadan Chapter
+  - [Amazon Web Service](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/) | Community Builder (Machine Learning).
+  - [Omdena](https://www.omdena.com/) | Data Science Local Lead (Ibadan Chapter).
   - [Data Science Nigeria](https://datasciencenigeria.org/) | Student Data Analyst Lead
   - [Ivy Framework](https://github.com/ivy-llc) | Open Source Machine Learning Contributor
 
