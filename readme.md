@@ -17,6 +17,7 @@ Furthermore, I have a strong practical experience in software development, data 
   - [Omdena](https://www.omdena.com/) | Data Science Local Lead (Ibadan Chapter).
   - [Data Science Nigeria](https://datasciencenigeria.org/) | Student Data Analyst Lead
   - [Ivy Framework](https://github.com/ivy-llc) | Open Source Machine Learning Contributor
+  - [Data Camp](https://www.datacamp.com/) | Ghost Technical Writer
 
 ### 📚 Projects
 Welcome to my portfolio, where I showcase my [projects](https://github.com/AdesinaA/portfolio-directory/blob/main/readme.md).
