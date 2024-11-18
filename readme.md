@@ -28,5 +28,4 @@ These valuable tools and techniques have empowered me to successfully develop an
 **Python | Tensorflow | Scikit-Learn | Scipy | Numpy | Pandas | Plotly | Pytorch | Json | Tableau | C# | Keras | MySql | Conda | Google colab | Microsoft Excel | Streamlit | AWS Redshift | Google BigQuery | Postgresql | Pandas | Seaborn | Matplotlib**
 
 ### 👋🏻 Connect with Me
-- [Linkedin]()
-- [Website]()
+- [Website](https://adesinaa.github.io)
