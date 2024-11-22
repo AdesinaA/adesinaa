@@ -30,3 +30,4 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 ### 👋🏻 Connect with Me
 - [X](https://x.com/adesinaa_)
+- [Linkedin](https://linkedin.com/in/adesinaa)
