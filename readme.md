@@ -6,7 +6,7 @@ I hold a Bachelors Degree in Computer Science at [Ekiti State University](https:
 
 Furthermore, I have a strong practical experience in software development, data analysis and implementation of Large Language Models (LLMs) into web applications.
 
-🔭 Below are some of the **companies I have worked professionally as a data scientist, machine learning engineer and software engineer:**
+🔭 Below are some of the **companies I have worked for professionally as a data scientist, machine learning engineer and software engineer:**
 
   - [International Institute of Tropical Agriculture](https://www.iita.org/) | Software Engineer
   - [Yoto Incorporation](https://find-and-update.company-information.service.gov.uk/company/09542062) | Data Scientist
