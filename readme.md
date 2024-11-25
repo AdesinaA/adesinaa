@@ -12,7 +12,7 @@ Furthermore, I have a strong practical experience in software development, data 
   - [Yoto Incorporation](https://find-and-update.company-information.service.gov.uk/company/09542062) | Data Scientist
   - [Tech For Good Incorporation](https://www.techforgoodinc.org/) | Machine Learning Intern
 
-🔭 Companies I have volunteered for:
+🔭 Companies I have volunteer(ing)ed for:
   - [Amazon Web Service](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/) | Community Builder (Machine Learning).
   - [Omdena](https://www.omdena.com/) | Data Science Local Lead (Ibadan Chapter).
   - [Data Science Nigeria](https://datasciencenigeria.org/) | Student Data Analyst Lead
