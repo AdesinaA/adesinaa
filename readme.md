@@ -19,7 +19,7 @@ Furthermore, I have a strong practical experience in software development, data 
   - [Ivy Framework](https://github.com/ivy-llc) | Open Source Machine Learning Contributor
   - [Data Camp](https://www.datacamp.com/) | Ghost Technical Writer
 
-🔭 Checkout my [Resume/CV](https://drive.google.com/file/d/1thS-AHuCeiPl-28qtzw0oJsWKpqpZN4t/view?usp=sharing)
+🔭 Checkout my [Resume/CV](https://drive.google.com/file/d/17JA8Aqb4zjXZhJCGYs__zZ6yIRVO8xGd/view?usp=sharing)
 ### 📚 Projects
 Welcome to my portfolio, where I showcase my [projects](https://github.com/AdesinaA/portfolio-directory/blob/main/readme.md).
 
