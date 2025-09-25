@@ -10,7 +10,7 @@ Furthermore, I have a strong practical experience in software development, data 
 
   - [International Institute of Tropical Agriculture](https://www.iita.org/) | SWE
   - [Yoto Incorporation](https://find-and-update.company-information.service.gov.uk/company/09542062) | Software Engineer (Data)
-  - [Tech For Good Incorporation](https://www.techforgoodinc.org/about) | Software Engineer(ML) Intern
+  - [Tech For Good Incorporation](https://www.techforgoodinc.org/about) | Software Engineer (ML) Intern
 
 🔭 Companies I have volunteered for:
   - [Amazon Web Service](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/) | Community Builder (Machine Learning).
