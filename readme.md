@@ -2,7 +2,7 @@
 Hello, I'm Adesina Abdulrahman. Passionate about  **Data Science (ML), Data Analysis, Sofware Engineering and Generative AI (LLMs).** 
 
 ### 👨‍🎓 About Me 💼🎒
-I hold a Bachelors Degree in Computer Science at [Ekiti State University](https://portal.eksu.ng/). I have 3+ years of experience building and deploying machine learning solutions. 
+I hold a Bachelors Degree in Computer Science at [Ekiti State University](https://portal.eksu.ng/). I have 3+ years of experience building and deploying software solutions. 
 
 Furthermore, I have a strong practical experience in software development, data analysis and implementation of Large Language Models (LLMs) into web applications.
 
